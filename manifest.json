@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Web to Markdown",
+  "version": "1.0.0",
+  "description": "一键将网页内容转换为 Markdown 格式并复制到剪贴板",
+  "permissions": ["contextMenus", "activeTab", "scripting"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}

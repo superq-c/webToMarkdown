@@ -15,7 +15,7 @@
 1. 克隆本仓库到本地：
 
    ```bash
-   git clone https://github.com/your-username/webToMarkdown.git
+   git clone https://github.com/superq-c/webToMarkdown.git
    ```
 
 2. 打开 Chrome 浏览器，访问 `chrome://extensions/`
